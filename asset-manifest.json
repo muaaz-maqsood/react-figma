@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-figma/static/css/main.f5fe1200.css",
+    "main.js": "/react-figma/static/js/main.411a575a.js",
+    "static/media/Group 1468.png": "/react-figma/static/media/Group 1468.b6cc797c951bb22baa58.png",
+    "static/media/image 43.png": "/react-figma/static/media/image 43.d55bc1e9a259e676e931.png",
+    "static/media/White-in-Basic4.png": "/react-figma/static/media/White-in-Basic4.bb88db808a3f63dc9d1c.png",
+    "index.html": "/react-figma/index.html",
+    "main.f5fe1200.css.map": "/react-figma/static/css/main.f5fe1200.css.map",
+    "main.411a575a.js.map": "/react-figma/static/js/main.411a575a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5fe1200.css",
+    "static/js/main.411a575a.js"
+  ]
+}
